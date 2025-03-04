@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋, I'm Vũ Bá Thắng!
 
-<!--
-**thangvb168/thangvb168** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+👨‍💻 I'm a **Backend Developer** with experience in **Node.js, Express.js, WebSocket, MongoDB, PostgreSQL, Redis, Elasticsearch, and RabbitMQ**.  
+💡 Passionate about building scalable and efficient backend systems.  
+🔍 Interested in **system design, database optimization, and real-time applications**.  
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Tools  
+- **Backend:** Node.js, Express.js, NestJS  
+- **Databases:** MongoDB, PostgreSQL, Redis  
+- **Message Brokers:** RabbitMQ  
+- **Search Engines:** Elasticsearch  
+- **Other:** Docker, Git, CI/CD  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me  
+- **GitHub:** [thangvb168](https://github.com/thangvb168)  
+- **Email:** [thangvb.dev@gmail.com](thangvb.dev@gmail.com)  
+
+### ⚡ Fun Fact  
+I love exploring **new technologies** and always look for ways to **optimize backend performance**!  
+
+---
+
+🔭 *Looking for exciting backend projects to collaborate on!*  
